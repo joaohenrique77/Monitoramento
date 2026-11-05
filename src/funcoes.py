@@ -94,4 +94,4 @@ if __name__ == "__main__":
     from pprint import pprint
 
     dados = atualizar_dados()
-    print(dados)
+    pprint(dados)
