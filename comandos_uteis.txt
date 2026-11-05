@@ -8,10 +8,10 @@ python -m venv venv
 
 GITHUB:
 1. Cole e execute o seguinte comando para clonar o repositório
-git clone https://github.com/FilipeNonemacher/calculadora.git 
+git clone (link do repositorio)
 
 2.Navegue até a pasta do projeto que acabou de ser baixada
-cd calculadora 
+cd (nome da pasta) 
 
 3. Abra a pasta no editor
 code . 
